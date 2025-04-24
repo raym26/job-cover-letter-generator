@@ -1,0 +1,9 @@
+langchain
+langchain_groq
+langchain_community
+unstructured
+selenium 
+beautifulsoup4 
+webdriver-manager
+chromadb
+python-docx
